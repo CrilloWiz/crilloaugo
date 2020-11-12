@@ -1,0 +1,29 @@
+{
+  "group": "acmodpack",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "acmodpack:lavaingot"
+    },
+    "1": {
+      "item": "acmodpack:lavaingot"
+    },
+    "2": {
+      "item": "acmodpack:lavaingot"
+    },
+    "3": {
+      "item": "acmodpack:lavaingot"
+    },
+    "5": {
+      "item": "acmodpack:lavaingot"
+    }
+  },
+  "result": {
+    "item": "acmodpack:firechestplate_helmet",
+    "count": 1
+  }
+}

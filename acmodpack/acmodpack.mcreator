@@ -1,0 +1,147 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "FirechestplateHelmetTickEvent",
+      "type": "procedure",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "firechestplate_helmet_tick_event",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Firechestplate",
+      "type": "armor",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "firechestplate",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "Lavaingot",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lavaingot"
+    },
+    {
+      "name": "Createfirearmor",
+      "type": "recipe",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "createfirearmor"
+    },
+    {
+      "name": "Createfirearmorleggins",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "createfirearmorleggins"
+    },
+    {
+      "name": "Createfirearmorhelmet",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "createfirearmorhelmet"
+    },
+    {
+      "name": "Createfirearmorshoes",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "createfirearmorshoes"
+    },
+    {
+      "name": "FireswordLivingEntityIsHitWithTool",
+      "type": "procedure",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "firesword_living_entity_is_hit_with_tool",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Firesword",
+      "type": "tool",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "firesword"
+    },
+    {
+      "name": "Createfiresword",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "createfiresword"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.acmodpack.firechestplate_boots": "Firechestplate Boots",
+      "item.acmodpack.firechestplate_leggings": "Firechestplate Leggings",
+      "item.acmodpack.lavaingot": "Lava ingot",
+      "item.acmodpack.firechestplate_helmet": "Firechestplate Helmet",
+      "item.acmodpack.firesword": "Firesword",
+      "item.acmodpack.firechestplate_chestplate": "Firechestplate Body"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "acmodpack",
+    "modName": "AC-modpack",
+    "version": "1.0.0",
+    "author": "chris, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.acmodpack",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000432115
+}

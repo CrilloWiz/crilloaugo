@@ -1,0 +1,24 @@
+{
+  "group": "acmodpack",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "acmodpack:lavaingot"
+    },
+    "1": {
+      "item": "acmodpack:lavaingot"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "acmodpack:firesword",
+    "count": 1
+  }
+}
