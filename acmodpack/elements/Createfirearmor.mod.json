@@ -4,7 +4,7 @@
   "definition": {
     "recipeType": "Crafting",
     "xpReward": 0.0,
-    "cookingTime": 300,
+    "cookingTime": 200,
     "recipeRetstackSize": 1,
     "group": "",
     "recipeShapeless": false,
